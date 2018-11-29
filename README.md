@@ -1,5 +1,6 @@
 # ETLProject
 Extract, Transform, Load for Bulbapedia and pokemondb.net data
+Original group repo: https://github.com/RomyRobi/ETLProject/tree/master
 
 ## File Run Sequence
 Run files in the following sequence:
